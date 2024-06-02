@@ -1,0 +1,32 @@
+# Compiler files
+cache/
+node_modules/
+out/
+
+# Ignores development broadcast logs
+broadcast
+
+# Dotenv file
+# Dotenv files
+**/.env*
+!**/.env*.sample
+
+# IDE files
+.idea
+*.iml
+
+# yarn files
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+.turbo
+.DS_Store
+packages/.DS_Store
+packages/contracts/.DS_Store
+packages/contracts/lib/.DS_Store
+
+.vercel
