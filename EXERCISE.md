@@ -23,7 +23,7 @@ Develop the solution however you like.  Credbull have used the following, they m
 
 ## Sample Email to Candidate
 
-Thank you for applying for a Developer role at Credbull!
+Thank you for applying to Credbull!
 
 The next steps in the interview process are a Coding Exercise and Technical interview.
 
