@@ -2,8 +2,8 @@
 
 ## Objective 
 - **Demonstrate** your problem solving and developer skills.     
-- Have a **conversation** with one of the Credbull Engineers about your solution, thought processes, roadbumps, etc.
-- Time-box the exercise to 2-3 hours.  We respect your free time, so don't want this to be overly burdensome.  
+- Have a **conversation** with one of the Credbull Engineers about your solution, thought processes, road bumps, etc.
+- Time-box the exercise to 2-3 hours.  We respect your free time!  
 
 ## Coding Exercise
 - [ ] Create a Solidity contract that accepts and tracks deposits and allows the depositor to withdraw their deposited amount.  
@@ -19,5 +19,5 @@
 ## Implementation Ideas
 Develop the solution however you like.  Credbull have used the following, they may also help you!
 * Credbull uses [OpenZepplein's ERC4626](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/ERC4626.sol) implementation of the [erc-4626 Vault Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/) as the basis for our contracts.  
-* [scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) is great for rapid prototyping.  This repo is based on the foundry, but there's a hardhat version as well.
+* [scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) is great for rapid prototyping.  This repo uses foundry, but there's a hardhat version as well.
 
