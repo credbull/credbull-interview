@@ -21,3 +21,15 @@ Develop the solution however you like.  Credbull have used the following, they m
 * Credbull uses [OpenZepplein's ERC4626](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/ERC4626.sol) implementation of the [erc-4626 Vault Standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/) as the basis for our contracts.  
 * [scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) is great for rapid prototyping.  This repo uses foundry, but there's a hardhat version as well.
 
+## Sample Email to Candidate
+
+Thank you for applying for a Developer role at Credbull!
+
+The next steps in the interview process are a Coding Exercise and Technical interview.
+
+1. Please see the Coding Exercise instructions here: https://github.com/credbull/credbull-interview/blob/main/EXERCISE.md
+1. Once you complete the Coding Exercise, email your solution (e.g. github repo) to ian@credbull.io
+1. During the Technical interview, please walk through your solution with a Credbull Engineer.  Together you will discuss the problem,
+your decisions and solution.  This is similar to your daily work if you join us!
+
+Please let us know if you have any questions.  Thank you!
